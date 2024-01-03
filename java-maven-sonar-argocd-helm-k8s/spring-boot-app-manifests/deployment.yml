@@ -18,4 +18,4 @@ spec:
       - name: spring-boot-app
         image: bipinkhandagale/ultimate-cicd:6
         ports:
-        - containerPort: 8080
+        - containerPort: 8010
