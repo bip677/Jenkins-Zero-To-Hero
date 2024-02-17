@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: bipinkhandagale/ultimate-cicd:6
+        image: nginx
         ports:
-        - containerPort: 9090
+        - containerPort: 80
